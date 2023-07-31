@@ -1,0 +1,2 @@
+Prefix plugins/AlignGenes/example/
+Plugin AlignGenes inputfile parameters.txt outputfile rankings.tsv
